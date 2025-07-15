@@ -4,10 +4,11 @@
     끊임없는 도전으로 가치를 더하는 신입 개발자 <b>김도영</b>입니다!<br>
     소통과 협업의 경험을 바탕으로, 실무에 기여할 수 있는 개발자로 성장하겠습니다.
 </div>
-<br>
+
+### ✋ Contact
 <a href=mailto:kdoyeong01@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdoyeong01@gamil.com"> </a>
+<a href=https://github.com/ddozero> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"> </a>
 <br>
-<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fddozero?color=gray&label=Hello&size=small" alt="Hello" /></a>
 
 ## 💻 Tech Stacks
 <div>
@@ -23,3 +24,5 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </div>
 
+
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fddozero?color=gray&label=Hello&size=small" alt="Hello" /></a>

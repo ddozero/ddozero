@@ -1,14 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&text=Hi%20there%20👋,%20I'm%20Doyeong%20–%20Welcome%20to%20my%20GitHub!&fontColor=000000&fontSize=25&font=Courier%20New" align="left" />
-<br clear="left"/>
+## Hi! 👋 I'm Doyeong – Welcome to my GitHub!
+### 🙋‍♀️ Who am I ?
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+    끊임없는 도전으로 가치를 더하는 신입 개발자 <b>김도영</b>입니다!<br>
+    소통과 협업의 경험을 바탕으로, 실무에 기여할 수 있는 개발자로 성장하겠습니다.
+</div>
+<br>
+<a href=mailto:kdoyeong01@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdoyeong01@gamil.com"> </a>
 
 
-
-
-
-
-
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddozero&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 Tech Stacks
+<div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+</div>

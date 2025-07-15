@@ -9,6 +9,7 @@
 <a href=mailto:kdoyeong01@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdoyeong01@gamil.com"> </a>
 <a href=https://github.com/ddozero> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"> </a>
 <br>
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fddozero?color=gray&label=Hello&size=small" alt="Hello" /></a>
 
 ## 💻 Tech Stacks
 <div>
@@ -25,4 +26,4 @@
 </div>
 
 
-<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fddozero?color=gray&label=Hello&size=small" alt="Hello" /></a>
+

@@ -43,5 +43,9 @@
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">
 </div>
 
+## 📌 Project
+1️⃣ <a href ="https://github.com/ddozero/Animal-Care-Platform"> **유기동물 통합 관리 플랫폼** </a> <br> 
+- 2025.06.02 ~ 2025.07.09
+- JAVA + Spring 기반 유기동물 입양·봉사·후원 통합 관리 플랫폼
 
-
+1️⃣ 유기동물 통합 관리 플랫폼 - <a herf =""> 바로보기 </a>

@@ -48,6 +48,6 @@
 - 2025.06.02 ~ 2025.07.09
 - JAVA + Spring 기반 유기동물 입양·봉사·후원 통합 관리 플랫폼
 
-2️⃣ <a herf ="https://github.com/ddozero/Academic-Management-Program"> **학원 관리 프로그램** </a>
+2️⃣ <a href ="https://github.com/ddozero/Academic-Management-Program"> **학원 관리 프로그램** </a> <br> 
 - 2025.03.26 ~ 2025.04.20
 - JAVA + JSP 기반 학원 관리 프로그램

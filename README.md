@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">
+<img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=sourcetree&logoColor=white">
 </div>
 
 ## 📌 Project

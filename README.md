@@ -2,7 +2,7 @@
 ## Hi! 👋 I'm Doyeong – Welcome to my GitHub!
 ### 🙋‍♀️ Who am I ?
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    끊임없는 도전으로 가치를 더하는 신입 개발자 <b>김도영</b>입니다!<br>
+    끊임없는 도전으로 가치를 더하는 신입 개발자 <b>김도영</b>입니다.<br>
     소통과 협업의 경험을 바탕으로, 실무에 기여할 수 있는 개발자로 성장하겠습니다.
 </div>
 

@@ -1,5 +1,5 @@
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fddozero?color=gray&label=Hello&size=small" alt="Hello" /></a>
-## Hi ! 👋 I'm Doyeong – Welcome to my GitHub!
+## Hi 👋 I'm Doyeong – Welcome to my GitHub!
 ### 🙋‍♀️ Who am I ?
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     끊임없는 도전으로 가치를 더하는 신입 개발자 <b>김도영</b>입니다.<br>

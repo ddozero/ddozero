@@ -47,10 +47,14 @@
 </div>
 
 ## 📌 Project
-1️⃣ <a href ="https://github.com/ddozero/Animal-Care-Platform"> **유기동물 통합 관리 플랫폼 '당신에게 다시가는 길'** </a><br> 
+1️⃣ <a href ="https://github.com/ddozero/Todoit"> **나도 할 수 있다! 취업 준비 관리 '투두잇'** </a><br> 
+- 개발 기간 : 2025.06.02 ~ 2025.07.09
+- Java + Spring boot + React 기반 취업 준비 관리 프로젝트 진행 중
+  
+2️⃣ <a href ="https://github.com/ddozero/Animal-Care-Platform"> **유기동물 통합 관리 플랫폼 '당신에게 다시가는 길'** </a><br> 
 - 개발 기간 : 2025.06.02 ~ 2025.07.09
 - JAVA + Spring 기반 유기동물 입양·봉사·후원 통합 관리 플랫폼
 
-2️⃣ <a href ="https://github.com/ddozero/Academic-Management-Program"> **학원 관리 프로그램 'SYS Academy'** </a><br> 
+3️⃣ <a href ="https://github.com/ddozero/Academic-Management-Program"> **학원 관리 프로그램 'SYS Academy'** </a><br> 
 - 개발 기간 : 2025.03.26 ~ 2025.04.20
 - JAVA + JSP 기반 학원 관리 프로그램

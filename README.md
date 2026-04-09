@@ -48,7 +48,7 @@
 
 ## 📌 Project
 1️⃣ <a href ="https://github.com/ddozero/Todoit"> **나도 할 수 있다! 취업 준비 관리 '투두잇'** </a><br> 
-- 개발 기간 : 2025.06.02 ~ 2025.07.09
+- 개발 기간 : 진행 중
 - Java + Spring boot + React 기반 취업 준비 관리 프로젝트 진행 중
   
 2️⃣ <a href ="https://github.com/ddozero/Animal-Care-Platform"> **유기동물 통합 관리 플랫폼 '당신에게 다시가는 길'** </a><br> 
